@@ -32,11 +32,6 @@ The project showcases front-end development skills using only HTML, CSS, and Jav
 2. Open `index.html` in your browser.
 3. Done!
 
-## 📸 Preview
-
-_You can add screenshots here or a live demo link._
-
----
 
 ## 📬 Contact
 
