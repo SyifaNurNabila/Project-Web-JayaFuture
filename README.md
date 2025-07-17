@@ -19,4 +19,27 @@ The project showcases front-end development skills using only HTML, CSS, and Jav
 - JavaScript
 
 ## 📁 Folder Structure
+/JayaFuture
+├── index.html
+├── style.css
+├── script.js
+├── images/
+└── fonts/
+
+## 🚀 How to Run
+
+1. Clone this repository or download the ZIP.
+2. Open `index.html` in your browser.
+3. Done!
+
+## 📸 Preview
+
+_You can add screenshots here or a live demo link._
+
+---
+
+## 📬 Contact
+
+For inquiries, please contact:  
+📧 nabilasyifa982@gmail.com  
 
